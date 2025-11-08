@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | The Salon</title>
+    <link>https://thesalon.github.io/publication-type/7/</link>
+      <atom:link href="https://thesalon.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://thesalon.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Benchmarks for Privacy-Preserving Image Classification</title>
+      <link>https://thesalon.github.io/publication/mokhtari-24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/mokhtari-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Standardized Evaluation in Differentially Private Image Classification: A Critical Approach</title>
+      <link>https://thesalon.github.io/publication/kodeiri-24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kodeiri-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Distribution Learning with Public Data</title>
+      <link>https://thesalon.github.io/publication/bie-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bie-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bias-Variance-Privacy Trilemma for Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/regehr-23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/regehr-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and Differentially Private Statistical Estimation via a Sum-of-Squares Exponential Mechanism</title>
+      <link>https://thesalon.github.io/publication/majid-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/majid-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/covington-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/covington-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Challenges in Distribution Testing</title>
+      <link>https://thesalon.github.io/publication/kamath-18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Learning and Covering Structured Distributions</title>
+      <link>https://thesalon.github.io/publication/kamath-14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

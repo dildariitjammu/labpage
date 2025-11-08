@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | The Salon</title>
+    <link>https://thesalon.github.io/other/</link>
+      <atom:link href="https://thesalon.github.io/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>Others</title>
+      <link>https://thesalon.github.io/other/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://thesalon.github.io/other/oldnews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/other/oldnews/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;December 2021: &lt;a href=&#34;https://arxiv.org/abs/2111.04906&#34;&gt;One paper&lt;/a&gt; accepted to AAAI 2022.&lt;/li&gt;
+&lt;li&gt;November 2021: Four papers posted on arXiv: &lt;a href=&#34;https://arxiv.org/abs/2111.04609&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2111.04906&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2111.05320&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2111.12981&#34;&gt;4&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;October 2021: Two papers posted on arXiv (&lt;a href=&#34;https://arxiv.org/abs/2110.06500&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2110.14465&#34;&gt;2&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;September 2021: Two papers (&lt;a href=&#34;https://arxiv.org/abs/2010.09063&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2103.03279&#34;&gt;2&lt;/a&gt;) accepted to NeurIPS 2021.&lt;/li&gt;
+&lt;li&gt;September 2021: Mahbod Majid wins the Waterloo &lt;a href=&#34;https://uwaterloo.ca/cybersecurity-privacy-institute/&#34;&gt;CPI&lt;/a&gt; &lt;a href=&#34;https://uwaterloo.ca/cybersecurity-privacy-institute/scholarships&#34;&gt;Cybersecurity and Privacy Excellence Graduate Scholarship&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;June 2021: Two papers posted on arXiv (&lt;a href=&#34;https://arxiv.org/abs/2106.01336&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2106.13414&#34;&gt;2&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;May 2021: Nicholas Vadivelu receives the &lt;a href=&#34;https://cs.uwaterloo.ca/news/nicholas-vadivelu-receives-2021-jessie-w-h-zou-memorial-award&#34;&gt;Jessie W.H. Zou Memorial Award&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;May 2021: Incoming students Alex Bie and Matt Regehr awarded the &lt;a href=&#34;https://cs.uwaterloo.ca/news/cheriton-masters-students-awarded-vector-scholarships-in-artificial-intelligence&#34;&gt;Vector Scholarship in Artifical Intelligence&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;May 2021: &lt;a href=&#34;https://arxiv.org/abs/2002.12321&#34;&gt;One paper&lt;/a&gt; accepted to ICML 2021.&lt;/li&gt;
+&lt;li&gt;March 2021: &lt;a href=&#34;https://arxiv.org/abs/2103.03279&#34;&gt;One paper&lt;/a&gt; posted on arXiv.&lt;/li&gt;
+&lt;li&gt;December 2020: &lt;a href=&#34;https://arxiv.org/abs/2010.09929&#34;&gt;One paper&lt;/a&gt; accepted to ALT 2021.&lt;/li&gt;
+&lt;li&gt;November 2020: &lt;a href=&#34;https://arxiv.org/abs/1905.13229&#34;&gt;One paper&lt;/a&gt; accepted to IEEE Transactions on Information Theory.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

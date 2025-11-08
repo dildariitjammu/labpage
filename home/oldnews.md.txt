@@ -1,0 +1,48 @@
+ * December 2024: [BridgePure: Revealing the Fragility of Black-box Data Protection](https://arxiv.org/abs/2412.21061) posted on arXiv.
+ * December 2024: Three papers ([1](https://arxiv.org/abs/2405.20769), [2](https://arxiv.org/abs/2303.01256), [3](https://arxiv.org/abs/2409.19798)) accepted to SaTML 2025.
+ * December 2024: [The Broader Landscape of Robustness in Algorithmic Statistics](https://arxiv.org/abs/2412.02670) posted on arXiv.
+ * October 2024: [Private Mean Estimation with Person-Level Differential Privacy](https://arxiv.org/abs/2405.20405) accepted to SODA 2025.
+ * September 2024: New paper on [arXiv](https://arxiv.org/abs/2409.19798).
+ * July 2024: "Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining" recognized with an ICML 2024 Best Paper Award.
+ * June 2024: Three new papers ([1](https://arxiv.org/abs/2405.20769), [2](https://arxiv.org/abs/2405.20405), [3](https://arxiv.org/abs/2406.17216)) on arXiv.
+ * May 2024: Three papers ([1](https://arxiv.org/abs/2212.06470), [2](https://arxiv.org/abs/2404.06737), [3](https://arxiv.org/abs/2405.04034)) accepted to ICML 2024.
+ * April 2024: New paper on [arXiv](https://arxiv.org/abs/2404.06737). 
+ * February 2024: [One paper](https://arxiv.org/abs/2402.12626) accepted to SaTML 2024.
+ * January 2024: Matthew Yang recognized as a Finalist for the [CRA Outstanding Undergraduate Research Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
+ * December 2023: Two papers ([1](https://arxiv.org/abs/2304.06787), 2) accepted to ALT 2024.
+ * November 2023: New paper on [arXiv](https://arxiv.org/abs/2311.06477).
+ * September 2023: Two posters ([1](https://arxiv.org/abs/2212.10717), 2) and one spotlight ([1](https://arxiv.org/abs/2308.06239)) accepted to NeurIPS 2023.
+ * August 2023: Two papers ([1](https://arxiv.org/abs/2206.02617), [2](https://arxiv.org/abs/2302.02936)) accepted to TMLR, and [one paper](https://arxiv.org/abs/2308.06239) posted to arXiv.
+ * July 2023: Gautam Kamath wins the [Faculty of Math Golden Jubilee Research Excellence Award](https://cs.uwaterloo.ca/news/gautam-kamath-receives-faculty-of-math-golden-jubilee-research-excellence-award).
+ * May 2023: Incoming student Jimmy Di awarded the [Vector Scholarship in Artifical Intelligence](https://vectorinstitute.ai/23-24-vector-ai-scholarship-announcement/).
+ * April 2023: [One paper](https://arxiv.org/abs/2303.03592) accepted to ICML 2023, and [one paper](https://arxiv.org/abs/2304.06929) posted on arXiv.
+ * April 2023: The Salon is now affiliated with the [Vector Institute](https://vectorinstitute.ai/).
+ * March 2023: Two papers ([1](https://arxiv.org/abs/2303.01256), [2](https://arxiv.org/abs/2303.03592)) posted on arXiv.
+ * February 2023: Mahbod Majid awarded [Faculty of Mathematics Graduate Research Excellence Award](https://cs.uwaterloo.ca/news/mahbod-majid-receives-faculty-of-mathematics-graduate-research-excellence-award).
+ * February 2023: [One paper](https://arxiv.org/abs/2212.05015) accepted to STOC 2023, and [one paper](https://arxiv.org/abs/2302.02936) posted on arXiv.
+ * January 2023: [One paper](https://arxiv.org/abs/2301.13334) posted on arXiv.
+ * December 2022: Three papers ([1](https://arxiv.org/abs/2212.05015), [2](https://arxiv.org/abs/2212.06470), [3](https://arxiv.org/abs/2212.10717)) posted on arXiv, and [one paper](https://arxiv.org/abs/2204.09092) accepted to TMLR.
+ * September 2022: Two papers ([1](https://arxiv.org/abs/2208.07984), [2](https://arxiv.org/abs/2205.08532)) accepted to NeurIPS 2022.
+ * August 2022: [One paper](https://arxiv.org/abs/2208.07984) posted on arXiv.
+ * June 2022: [One paper](https://arxiv.org/abs/2206.02617) posted on arXiv.
+ * May 2022: [One paper](https://arxiv.org/abs/2205.08532) posted on arXiv.
+ * May 2022: Three papers ([1](https://arxiv.org/abs/2111.04609), [2](https://arxiv.org/abs/2111.05320), [3](https://arxiv.org/abs/2106.13414)) accepted to COLT 2022, [one paper](https://arxiv.org/abs/2106.01336) accepted to ICML 2022.
+ * May 2022: Incoming student Sabrina Mokhtari awarded the [Vector Scholarship in Artifical Intelligence](https://cs.uwaterloo.ca/news/sabrina-mokhtari-awarded-2022-vector-scholarship-in-artificial-intelligence).
+ * April 2022: [One paper](https://arxiv.org/abs/2204.09092) posted on arXiv.
+ * April 2022: [One paper](https://arxiv.org/abs/2201.11308) accepted to ISIT 2022.
+ * February 2022: [One paper](https://arxiv.org/abs/2111.12981) accepted to STOC 2022.
+ * January 2022: [One paper](https://arxiv.org/abs/2201.11308) posted on arXiv.
+ * January 2022: [One paper](https://arxiv.org/abs/2110.06500) accepted to ICLR 2022.
+ * January 2022: Two members recognized as [CRA Outstanding Undergraduate Researchers](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/): Nicholas Vadivelu (Runner-Up) and Sourav Biswas (Honorable Mention). 
+ * December 2021: [One paper](https://arxiv.org/abs/2111.04906) accepted to AAAI 2022.
+ * November 2021: Four papers posted on arXiv: [1](https://arxiv.org/abs/2111.04609), [2](https://arxiv.org/abs/2111.04906), [3](https://arxiv.org/abs/2111.05320), [4](https://arxiv.org/abs/2111.12981).
+ * October 2021: Two papers posted on arXiv ([1](https://arxiv.org/abs/2110.06500), [2](https://arxiv.org/abs/2110.14465)).
+ * September 2021: Two papers ([1](https://arxiv.org/abs/2010.09063), [2](https://arxiv.org/abs/2103.03279)) accepted to NeurIPS 2021.
+ * September 2021: Mahbod Majid wins the Waterloo [CPI](https://uwaterloo.ca/cybersecurity-privacy-institute/) [Cybersecurity and Privacy Excellence Graduate Scholarship](https://uwaterloo.ca/cybersecurity-privacy-institute/scholarships).
+* June 2021: Two papers posted on arXiv ([1](https://arxiv.org/abs/2106.01336), [2](https://arxiv.org/abs/2106.13414)).
+* May 2021: Nicholas Vadivelu receives the [Jessie W.H. Zou Memorial Award](https://cs.uwaterloo.ca/news/nicholas-vadivelu-receives-2021-jessie-w-h-zou-memorial-award).
+* May 2021: Incoming students Alex Bie and Matt Regehr awarded the [Vector Scholarship in Artifical Intelligence](https://cs.uwaterloo.ca/news/cheriton-masters-students-awarded-vector-scholarships-in-artificial-intelligence).
+* May 2021: [One paper](https://arxiv.org/abs/2002.12321) accepted to ICML 2021.
+* March 2021: [One paper](https://arxiv.org/abs/2103.03279) posted on arXiv.
+* December 2020: [One paper](https://arxiv.org/abs/2010.09929) accepted to ALT 2021.
+* November 2020: [One paper](https://arxiv.org/abs/1905.13229) accepted to IEEE Transactions on Information Theory.

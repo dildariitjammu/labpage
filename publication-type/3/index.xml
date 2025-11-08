@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | The Salon</title>
+    <link>https://thesalon.github.io/publication-type/3/</link>
+      <atom:link href="https://thesalon.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://thesalon.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Not All Samples Are Equal: Quantifying Instance-level Difficulty in Targeted Data Poisoning</title>
+      <link>https://thesalon.github.io/publication/xu-lwylky-25/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/xu-lwylky-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Broader Landscape of Robustness in Algorithmic Statistics</title>
+      <link>https://thesalon.github.io/publication/kamath-24/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report of the 1st Workshop on Generative AI and Law</title>
+      <link>https://thesalon.github.io/publication/cooper-lgiccmbmcbcdfggghjjklmmmnorrssvvwz-23/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cooper-lgiccmbmcbcdfggghjjklmmmnorrssvvwz-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bias-Variance-Privacy Trilemma for Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/kamath-mrssu-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-mrssu-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Primer on Private Statistics</title>
+      <link>https://thesalon.github.io/publication/kamath-u-20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-u-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

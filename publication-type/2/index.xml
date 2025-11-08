@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | The Salon</title>
+    <link>https://thesalon.github.io/publication-type/2/</link>
+      <atom:link href="https://thesalon.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://thesalon.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/covington-hhk-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/covington-hhk-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially Private Fine-tuning of Language Models</title>
+      <link>https://thesalon.github.io/publication/yu-nbgikklmwyz-24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/yu-nbgikklmwyz-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing Differential Privacy: Where We Are Now and Future Directions for Real-World Deployment</title>
+      <link>https://thesalon.github.io/publication/cummings-deghjkkooprsssttvwxyyzz-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cummings-deghjkkooprsssttvwxyyzz-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent</title>
+      <link>https://thesalon.github.io/publication/yu-kklyz-23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/yu-kklyz-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private GANs, Revisited</title>
+      <link>https://thesalon.github.io/publication/bie-kz-23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bie-kz-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indiscriminate Data Poisoning Attacks on Neural Networks</title>
+      <link>https://thesalon.github.io/publication/lu-ky-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-ky-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Discrete Gaussian for Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/canonne-ks-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-ks-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Meets Algorithms</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Hypothesis Selection</title>
+      <link>https://thesalon.github.io/publication/bun-ksw-21/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bun-ksw-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INSPECTRE: Privately Estimating the Unseen</title>
+      <link>https://thesalon.github.io/publication/acharya-ksz-20/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ksz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimators in High-Dimensions Without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
+      <link>https://thesalon.github.io/publication/acharya-ck-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ck-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

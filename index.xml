@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Salon</title>
+    <link>https://thesalon.github.io/</link>
+      <atom:link href="https://thesalon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Salon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>The Salon</title>
+      <link>https://thesalon.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Demystifying Foreground-Background Memorization in Diffusion Models</title>
+      <link>https://thesalon.github.io/publication/di-lykdb-26/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/di-lykdb-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BridgePure: Limited Protection Leakage Can Break Black-Box Data Protection</title>
+      <link>https://thesalon.github.io/publication/wang-lgky-25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/wang-lgky-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query-Efficient Locally Private Hypothesis Selection via the Scheffe Graph</title>
+      <link>https://thesalon.github.io/publication/kamath-prw-25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-prw-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Samples Are Equal: Quantifying Instance-level Difficulty in Targeted Data Poisoning</title>
+      <link>https://thesalon.github.io/publication/xu-lwylky-25/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/xu-lwylky-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Learnability of Distribution Classes with Adaptive Adversaries</title>
+      <link>https://thesalon.github.io/publication/lechner-bk-25/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lechner-bk-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Differentially Private Sampling of Unbounded Gaussians</title>
+      <link>https://thesalon.github.io/publication/iverson-km-25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/iverson-km-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoiding Pitfalls for Privacy Accounting of Subsampled Mechanisms under Composition</title>
+      <link>https://thesalon.github.io/publication/lebeda-rks-25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lebeda-rks-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance</title>
+      <link>https://thesalon.github.io/publication/gu-kw-25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/gu-kw-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Unlearning Fails to Remove Data Poisoning Attacks</title>
+      <link>https://thesalon.github.io/publication/pawelczyk-dlksn-25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/pawelczyk-dlksn-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Position: Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data</title>
+      <link>https://thesalon.github.io/publication/zhang-dkt-25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/zhang-dkt-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Mean Estimation with Person-Level Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/agarwal-kmmsu-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/agarwal-kmmsu-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/covington-hhk-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/covington-hhk-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Broader Landscape of Robustness in Algorithmic Statistics</title>
+      <link>https://thesalon.github.io/publication/kamath-24/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Benchmarks for Privacy-Preserving Image Classification</title>
+      <link>https://thesalon.github.io/publication/mokhtari-24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/mokhtari-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Standardized Evaluation in Differentially Private Image Classification: A Critical Approach</title>
+      <link>https://thesalon.github.io/publication/kodeiri-24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kodeiri-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially Private Post-Processing for Fair Regression</title>
+      <link>https://thesalon.github.io/publication/xian-lkz-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/xian-lkz-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disguised Copyright Infringement of Latent Diffusion Models</title>
+      <link>https://thesalon.github.io/publication/lu-ylky-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-ylky-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining</title>
+      <link>https://thesalon.github.io/publication/tramer-kc-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/tramer-kc-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially Private Fine-tuning of Language Models</title>
+      <link>https://thesalon.github.io/publication/yu-nbgikklmwyz-24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/yu-nbgikklmwyz-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indiscriminate Data Poisoning Attacks on Pre-trained Feature Extractors</title>
+      <link>https://thesalon.github.io/publication/lu-yky-24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-yky-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Polynomial Time, Pure Differentially Private Estimator for Binary Product Distributions</title>
+      <link>https://thesalon.github.io/publication/singhal-24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/singhal-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Learnable Distribution Classes are Privately Learnable</title>
+      <link>https://thesalon.github.io/publication/bun-kms-24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bun-kms-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing Differential Privacy: Where We Are Now and Future Directions for Real-World Deployment</title>
+      <link>https://thesalon.github.io/publication/cummings-deghjkkooprsssttvwxyyzz-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cummings-deghjkkooprsssttvwxyyzz-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Distribution Learning with Public Data</title>
+      <link>https://thesalon.github.io/publication/bie-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bie-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sorting and Selection in Rounds with Adversarial Comparisons</title>
+      <link>https://thesalon.github.io/publication/trevisan-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/trevisan-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution Learnability and Robustness</title>
+      <link>https://thesalon.github.io/publication/ben-david-bkl-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/ben-david-bkl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks</title>
+      <link>https://thesalon.github.io/publication/di-daks-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/di-daks-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Distribution Learning with Public Data: The View from Sample Compression</title>
+      <link>https://thesalon.github.io/publication/ben-david-bcks-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/ben-david-bcks-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report of the 1st Workshop on Generative AI and Law</title>
+      <link>https://thesalon.github.io/publication/cooper-lgiccmbmcbcdfggghjjklmmmnorrssvvwz-23/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cooper-lgiccmbmcbcdfggghjjklmmmnorrssvvwz-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent</title>
+      <link>https://thesalon.github.io/publication/yu-kklyz-23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/yu-kklyz-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private GANs, Revisited</title>
+      <link>https://thesalon.github.io/publication/bie-kz-23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bie-kz-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bias-Variance-Privacy Trilemma for Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/regehr-23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/regehr-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Limits of Model-Targeted Indiscriminate Data Poisoning Attacks</title>
+      <link>https://thesalon.github.io/publication/lu-ky-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-ky-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Implies Privacy in Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/hopkins-kmn-22/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/hopkins-kmn-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bias-Variance-Privacy Trilemma for Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/kamath-mrssu-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-mrssu-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and Differentially Private Statistical Estimation via a Sum-of-Squares Exponential Mechanism</title>
+      <link>https://thesalon.github.io/publication/majid-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/majid-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indiscriminate Data Poisoning Attacks on Neural Networks</title>
+      <link>https://thesalon.github.io/publication/lu-ky-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-ky-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Lower Bounds for Private Estimation and a Generalized Fingerprinting Lemma</title>
+      <link>https://thesalon.github.io/publication/kamath-ms-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-ms-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Estimation with Public Data</title>
+      <link>https://thesalon.github.io/publication/bie-ks-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bie-ks-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Private and Computationally-Efficient Estimator for Unbounded Gaussians</title>
+      <link>https://thesalon.github.io/publication/kamath-mssu-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-mssu-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Rates for Differentially Private Stochastic Convex Optimization with Heavy-Tailed Data</title>
+      <link>https://thesalon.github.io/publication/kamath-lz-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-lz-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimation for Random Graphs</title>
+      <link>https://thesalon.github.io/publication/acharya-jksz-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-jksz-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Discrete Gaussian for Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/canonne-ks-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-ks-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Price of Tolerance in Distribution Testing</title>
+      <link>https://thesalon.github.io/publication/canonne-jkl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-jkl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/covington-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/covington-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration with Privacy in Peer Review</title>
+      <link>https://thesalon.github.io/publication/ding-kws-22/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/ding-kws-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism</title>
+      <link>https://thesalon.github.io/publication/hopkins-km-22/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/hopkins-km-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially Private Fine-tuning of Language Models</title>
+      <link>https://thesalon.github.io/publication/yu-nbgikklmwyz-22/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/yu-nbgikklmwyz-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Adaptive Optimizers for Honest Private Hyperparameter Selection</title>
+      <link>https://thesalon.github.io/publication/mohapatra-shkt-22/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/mohapatra-shkt-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don’t Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence</title>
+      <link>https://thesalon.github.io/publication/cao-bvfk-21/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cao-bvfk-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization</title>
+      <link>https://thesalon.github.io/publication/subramani-vk-21/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/subramani-vk-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remember What You Want to Forget: Algorithms for Machine Unlearning</title>
+      <link>https://thesalon.github.io/publication/sekhari-aks-21/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/sekhari-aks-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAPRIKA: Private Online False Discovery Rate Control</title>
+      <link>https://thesalon.github.io/publication/zhang-kc-21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/zhang-kc-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Meets Algorithms</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Sample Complexity of Privately Learning Unbounded High-Dimensional Gaussians</title>
+      <link>https://thesalon.github.io/publication/aden-ali-ak-21/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/aden-ali-ak-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Hypothesis Selection</title>
+      <link>https://thesalon.github.io/publication/bun-ksw-21/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bun-ksw-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Restrictions of High-Dimensional Distributions and Uniformity Testing with Subcube Conditioning</title>
+      <link>https://thesalon.github.io/publication/canonne-cklw-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-cklw-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoinPress: Practical Private Mean and Covariance Estimation</title>
+      <link>https://thesalon.github.io/publication/biswas-dku-20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/biswas-dku-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Identity Testing for High-Dimensional Distributions</title>
+      <link>https://thesalon.github.io/publication/canonne-kmuz-20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-kmuz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Discrete Gaussian for Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/canonne-ks-20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-ks-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>https://thesalon.github.io/funding/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunities</title>
+      <link>https://thesalon.github.io/opportunities/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/opportunities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://thesalon.github.io/people/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/people/</guid>
+      <description>&lt;p&gt;Your Host - Gautam Kamath&lt;/p&gt;
+
+&lt;p&gt;Graduate Students - Argyris Mouzakis, Christian Covington, Mahbod Majid&lt;/p&gt;
+
+&lt;p&gt;Affiliated Members - Shubhankar Mohapatra, Pranav Subramani&lt;/p&gt;
+
+&lt;p&gt;Undergraduate Students - Sourav Biswas&lt;/p&gt;
+
+&lt;p&gt;Visitors -&lt;/p&gt;
+
+&lt;p&gt;Alumni - Pranav Subramani, Vikrant Singhal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locally Private Hypothesis Selection</title>
+      <link>https://thesalon.github.io/publication/gopi-kknwz-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/gopi-kknwz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Mean Estimation of Heavy-Tailed Distributions</title>
+      <link>https://thesalon.github.io/publication/kamath-su-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-su-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privately Learning Markov Random Fields</title>
+      <link>https://thesalon.github.io/publication/zhang-kkw-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/zhang-kkw-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INSPECTRE: Privately Estimating the Unseen</title>
+      <link>https://thesalon.github.io/publication/acharya-ksz-20/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ksz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Primer on Private Statistics</title>
+      <link>https://thesalon.github.io/publication/kamath-u-20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-u-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially Private Algorithms for Learning Mixtures of Separated Gaussians</title>
+      <link>https://thesalon.github.io/publication/kamath-ssu-19/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-ssu-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Hypothesis Selection</title>
+      <link>https://thesalon.github.io/publication/bun-ksw-19/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bun-ksw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privately Learning High-Dimensional Distributions</title>
+      <link>https://thesalon.github.io/publication/kamath-lsu-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-lsu-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sever: A Robust Meta-Algorithm for Stochastic Optimization</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklss-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklss-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Optimal Private Tests for Simple Hypotheses</title>
+      <link>https://thesalon.github.io/publication/canonne-kmsu-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-kmsu-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimators in High-Dimensions Without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anaconda: A Non-Adaptive Conditional Sampling Algorithm for Distribution Testing</title>
+      <link>https://thesalon.github.io/publication/kamath-t-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-t-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
+      <link>https://thesalon.github.io/publication/acharya-ck-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ck-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Challenges in Distribution Testing</title>
+      <link>https://thesalon.github.io/publication/kamath-18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actively Avoiding Nonsense in Generative Models</title>
+      <link>https://thesalon.github.io/publication/hanneke-kkt-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/hanneke-kkt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INSPECTRE: Privately Estimating the Unseen</title>
+      <link>https://thesalon.github.io/publication/acharya-ksz-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ksz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustly Learning a Gaussian: Getting Optimal Error, Efficiently</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Which Distribution Distances are Sublinearly Testable?</title>
+      <link>https://thesalon.github.io/publication/daskalakis-kw-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-kw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of Multilinear Functions of the Ising Model with Applications to Network Data</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Being Robust (in High Dimensions) Can Be Practical</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priv&#39;IT: Private and Sample Efficient Identity Testing</title>
+      <link>https://thesalon.github.io/publication/cai-dk-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cai-dk-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimators in High Dimensions without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-16/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Size-Free CLT for Poisson Multinomials and its Applications</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dkt-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dkt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Testing for Properties of Distributions</title>
+      <link>https://thesalon.github.io/publication/acharya-dk-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-dk-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Structure, Covering, and Learning of Poisson Multinomial Distributions</title>
+      <link>https://thesalon.github.io/publication/daskalakis-kt-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-kt-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
+      <link>https://thesalon.github.io/publication/acharya-ck-15-b/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ck-15-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Estimation in Weighted Group Testing</title>
+      <link>https://thesalon.github.io/publication/acharya-ck-15-a/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/acharya-ck-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Learning and Covering Structured Distributions</title>
+      <link>https://thesalon.github.io/publication/kamath-14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster and Sample Near-Optimal Algorithms for Proper Learning Mixtures of Gaussians</title>
+      <link>https://thesalon.github.io/publication/daskalakis-k-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-k-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of One-Dimensional Schelling Segregation</title>
+      <link>https://thesalon.github.io/publication/brandt-ikk-12/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/brandt-ikk-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thesalon.github.io/other/oldnews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/other/oldnews/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;December 2021: &lt;a href=&#34;https://arxiv.org/abs/2111.04906&#34;&gt;One paper&lt;/a&gt; accepted to AAAI 2022.&lt;/li&gt;
+&lt;li&gt;November 2021: Four papers posted on arXiv: &lt;a href=&#34;https://arxiv.org/abs/2111.04609&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2111.04906&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2111.05320&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2111.12981&#34;&gt;4&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;October 2021: Two papers posted on arXiv (&lt;a href=&#34;https://arxiv.org/abs/2110.06500&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2110.14465&#34;&gt;2&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;September 2021: Two papers (&lt;a href=&#34;https://arxiv.org/abs/2010.09063&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2103.03279&#34;&gt;2&lt;/a&gt;) accepted to NeurIPS 2021.&lt;/li&gt;
+&lt;li&gt;September 2021: Mahbod Majid wins the Waterloo &lt;a href=&#34;https://uwaterloo.ca/cybersecurity-privacy-institute/&#34;&gt;CPI&lt;/a&gt; &lt;a href=&#34;https://uwaterloo.ca/cybersecurity-privacy-institute/scholarships&#34;&gt;Cybersecurity and Privacy Excellence Graduate Scholarship&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;June 2021: Two papers posted on arXiv (&lt;a href=&#34;https://arxiv.org/abs/2106.01336&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2106.13414&#34;&gt;2&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;May 2021: Nicholas Vadivelu receives the &lt;a href=&#34;https://cs.uwaterloo.ca/news/nicholas-vadivelu-receives-2021-jessie-w-h-zou-memorial-award&#34;&gt;Jessie W.H. Zou Memorial Award&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;May 2021: Incoming students Alex Bie and Matt Regehr awarded the &lt;a href=&#34;https://cs.uwaterloo.ca/news/cheriton-masters-students-awarded-vector-scholarships-in-artificial-intelligence&#34;&gt;Vector Scholarship in Artifical Intelligence&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;May 2021: &lt;a href=&#34;https://arxiv.org/abs/2002.12321&#34;&gt;One paper&lt;/a&gt; accepted to ICML 2021.&lt;/li&gt;
+&lt;li&gt;March 2021: &lt;a href=&#34;https://arxiv.org/abs/2103.03279&#34;&gt;One paper&lt;/a&gt; posted on arXiv.&lt;/li&gt;
+&lt;li&gt;December 2020: &lt;a href=&#34;https://arxiv.org/abs/2010.09929&#34;&gt;One paper&lt;/a&gt; accepted to ALT 2021.&lt;/li&gt;
+&lt;li&gt;November 2020: &lt;a href=&#34;https://arxiv.org/abs/1905.13229&#34;&gt;One paper&lt;/a&gt; accepted to IEEE Transactions on Information Theory.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
